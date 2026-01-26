@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Jeremiah — Azure Cloud & IT Professional
 
+<div>
+  <img width="100" height="100" alt="az900logo" src="https://github.com/user-attachments/assets/4f80c9d1-aa85-43cf-b609-250b06b2bf97" />,
+  <img width="100" height="100" alt="az104logo2" src="https://github.com/user-attachments/assets/65f550f2-2430-47f3-84f8-245e8fa2f148" />,
+  <img width="100" height="100" alt="Security+-png" src="https://github.com/user-attachments/assets/9c856dc0-6278-499f-94c8-56e2363c6497" />
+</div>
+
 Welcome to my cloud portfolio. I specialize in **Microsoft Azure**, **identity & access management**, **cloud administration**, and **technical support**. I actively hold the **Microsoft: AZ‑900**, **Microsoft: AZ‑104**, and **CompTIA Security+** certifications and have hands‑on experience deploying, securing, and monitoring cloud resources.
 
 This repository showcases my practical Azure projects, automation scripts, and cloud engineering labs. Each project includes documentation, diagrams, and reproducible steps.
