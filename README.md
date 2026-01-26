@@ -74,7 +74,7 @@ I’m pursuing roles such as:
 
 ## 📬 Contact
 
-- **LinkedIn:** <a href="www.linkedin.com/in/jeremiahdrvl">Click here</a> 
+- **LinkedIn:** <a href="www.linkedin.com/in/jeremiah-dorvil-557142150">Click here</a> 
 - **Email:** <your email>  
 
 Thanks for visiting — feel free to explore the projects!
